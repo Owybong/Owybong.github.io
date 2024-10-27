@@ -1,0 +1,28 @@
+*{
+  background-color: rgb(27, 50, 70);
+}
+
+.main-content h2{
+  color: aliceblue;
+  text-align: center;
+}
+.main-content h3{
+  color: aliceblue;
+  text-align: center;
+}
+
+.main-content button{
+  color: aliceblue;
+  background-color: black;
+  font-style: italic;
+}
+.main-content img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%
+}
+
+.button {
+  text-align: center;
+}
